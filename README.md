@@ -6,4 +6,5 @@
   - 📫 How to reach me- Discord: @Edwardthan;
   - 😄 Pronouns: He/Him;
   - ⚡ Fun fact: I am currently studying to major in mechanical engineering and minor in computer science!;
+
 };
